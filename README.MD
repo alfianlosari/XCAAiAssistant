@@ -14,11 +14,11 @@ AI Voice Assistant App built with SwiftUI and OpenAI APIs (GPT4 Chat Completion,
 - iOS 17
 - macOS 14
 - visionOS 1.0
-- ![OpenAI API Key](https://platform.openai.com)
+- [OpenAI API Key](https://platform.openai.com)
 
 ## YouTube Tutorial
 
-Check the full ![YouTube Video Tutotrial](https://youtu.be/2Lpb9k9XeAA)
+Check the full [YouTube Video Tutotrial](https://youtu.be/2Lpb9k9XeAA)
 
 ## License
 
